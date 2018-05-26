@@ -1,0 +1,22 @@
+	Sun Certified Java Developer(SCJP) with JDK5
+•	Sun Certified Web Component Developer(SCWCD) with JDK5 
+•	Hands on experience on developing web application using Struts 1.2/2.0
+•	Hands on experience in developing web applications using RESTful service
+•	Hands on experience on developing web applications using JSF2.0
+•	Hands on experience on developing web application using Spring MVC
+•	Hands on experience on developing application using Spring core Inversion of control(IOC)
+•	Knowledge on implementing cross cutting concerns using Spring Aspect Oriented Programming(AOP)
+•	Hands on experience on developing model layer using Hibernate ORM 3.2 
+•	Knowledge on implementing model layer using EJB3.O
+•	Hands on experience in xml parsing using JAXB, SAX & DOM
+•	Hands on exposure on writing DB query using HQL and SQL
+•	Adequate knowledge and working experience with Agile and Waterfall methodology 
+•	Experience in Windows OS and UNIX
+•	Experience in Application Servers like Weblogic and Websphere
+
+-------------------------------
+Experienced System Architect with a demonstrated history of working in the retail industry. Strong engineering professional skilled in building cloud native apps with SQL and noSQL data stores, managing agile engineering teams and architecting enterprise solutions.
+
+
+java, javascript, angular2, PCF, 12-factor apps, GCP, cassandra, redis, springboot, kafka, swagger, node, jenkins, concourse, ci/cd, high scalability, automation, retail, store-systems, inventory management, cloudfoundry, git, mobile apps, reliability, splunk, appdynamics, XP, pair-programming, agile, micro services, cloud native enterprise architectures, domain-driven-design.
+
